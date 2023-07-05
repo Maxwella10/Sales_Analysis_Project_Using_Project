@@ -31,9 +31,9 @@ Hypothesis Testing:
   --
   There is significance difference in sales volume in terms of sales amount and quantity over the period of 12 months in 2019.
 
- Results from ANNOVA Test
+ Results from ANOVA Test
  ---
-  The p value obtained from ANOVA analysis is significant ((p = 0.342) > 0.05), and therefore, we conclude that there are significant differences in sales voulme each month. 
+  The p value obtained from ANOVA analysis is significant ((p = 0.342) > 0.05), and therefore, we conclude that there are significant differences in sales volume each month. 
   Hence we reject null hypothesis and accept alternative hypothesis 
 
 Results and Discussions
